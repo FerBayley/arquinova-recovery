@@ -125,7 +125,7 @@
 				<div class="Emboltorio">
 					<img src="img/rus.jpg" width="155" height="240" alt="Rustiflex Anclaflex">
 					<h2>Revestimiento Pl&aacute;stico Anclaflex X 25 Kg</h2>
-					<p><strong>AR$850,00</strong></p>
+					<p><strong>AR$710,00</strong></p>
 					<a href="http://articulo.mercadolibre.com.ar/MLA-551370230-revestimiento-plastico-tarquini-revear-anclaflex-x-25-kg-_JM" target="_blank">COMPRAR</a>
 				</div> <!-- End of Emboltorio -->
 			</div> <!-- End of Col__3 -->
@@ -133,7 +133,7 @@
 			<div class="Col__4">
 				<div class="Emboltorio">
 					<img src="img/pradera.jpg" width="155" height="240" alt="Pinturas Pradera">
-					<h2>Impermeabilizante de Muros-Ext.</h2>
+					<h2>Impermeabilizante de Muros Externos</h2>
 					<p><strong>AR$1.250,00</strong></p>
 					<a href="http://articulo.mercadolibre.com.ar/MLA-551677448-latex-exterior-impermeabilizante-color-x-20-lts-_JM" target="_blank">COMPRAR</a>
 				</div> <!-- End of Emboltorio -->
@@ -184,7 +184,7 @@
 
 			<div class="Mapa2">
 				<h2>Arquinova Color Pque.Chacabuco-C.A.B.A</h2>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13139.545247421695!2d-58.44465482435368!3d-34.58174310589094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5edd9be171d%3A0x6700691aa6a216d5!2sAv+C%C3%B3rdoba+6074%2C+Buenos+Aires%2C+Ciudad+Aut%C3%B3noma+de+Buenos+Aires!5e0!3m2!1ses!2sar!4v1428207324165" width="500" height="300" frameborder="0" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.651367442293!2d-58.4306705!3d-34.6382495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccbb1ba5ab839%3A0xea8aae62a94d65f9!2sBeauchef+1823%2C+Cdad.+Autonoma+de+Buenos+Aires!5e0!3m2!1ses-419!2sar!4v1438282907062" width="500" height="300" frameborder="0" style="border:0"></iframe>
 			</div> <!-- End of map2 -->
 		</section> <!-- End of Maps -->
 
