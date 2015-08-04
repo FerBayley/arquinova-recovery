@@ -192,20 +192,20 @@
 			<div class="Redes1">
 				<ul>
 					<li><img src="img/facebook-logo.jpg" width="210" height="51" alt="Facebook"></li>
-					<li><a href="https://www.facebook.com/pages/Arquinova-Color/188445601354435?fref=ts" target="_blank">ENTRA AL FACEBOOK DE PALERMO</a></li>
+					<li><a href="https://www.facebook.com/pages/Arquinova-Color/188445601354435?fref=ts" target="_blank">ENTRA AL FACEBOOK DE CANNING</a></li>
 				</ul>
 			</div> <!-- End of Redes1 -->
 
 			<div class="Redes2">
 				<ul>
 					<li><img src="img/facebook-logo.jpg" width="210" height="51" alt="Facebook"></li>
-					<li><a href="https://www.facebook.com/pages/Arquinova-Color-Canning/511173479011749?fref=ts" target="_blank">ENTRA AL FACEBOOK DE CANNING</a></li>
+					<li><a href="https://www.facebook.com/pages/Arquinova-Color-Canning/511173479011749?fref=ts" target="_blank">ENTRA AL FACEBOOK DE P.CHACABUCO</a></li>
 				</ul>
 			</div> <!-- End of Redes2 -->
 		</section> <!-- End of Redes -->
 
 		<footer>
-			<p>Beauchef 1823 Capital Federal - 4922-2926 - Nextel 694*4170 - lun a vier de 9 a 18hs y sab 9 a 16hs</p>
+			<p>Beauchef 1823 Capital Federal - 4922-2926 - Nextel 694*4170 - lun a vier de 8 a 18hs y sab 8:30 a 12:30hs</p>
 			<p>Mariano Castex 2735 - 4-295-7501 - Canning - Ezeiza - lun a vier de 9 a 18hs y sab 9 a 17hs</p>
 			<p>Todos los derechos reservados &copy;2014 / <a href="mailto:info@arquinovacolor.com.ar">info@arquinovacolor.com.ar</a></p>
 		</footer> <!-- End of footer -->
