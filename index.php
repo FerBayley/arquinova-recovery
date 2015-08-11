@@ -51,7 +51,7 @@
 
 		<nav>
 			<ul>
-				<li><a href="#">REVESTIMEINTOS</a></li>
+				<li><a href="#">REVESTIMIENTOS</a></li>
 				<li><a href="#">PINTURAS</a></li>
 				<li><a href="#">OBRAS</a></li>
 				<li><a href="#">PIEDRAS</a></li>
